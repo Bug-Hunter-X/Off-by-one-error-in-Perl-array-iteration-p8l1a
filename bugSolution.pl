@@ -1,0 +1,1 @@
+my @array = (1 .. 10);for my $element (@array) {    print "$element\n";} #Alternatively, using a for loop with index:for (my $i = 0; $i <= $#array; $i++) {    print "$array[$i]\n";}
