@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Perl when iterating over arrays using a C-style for loop.  The `bug.pl` file contains the erroneous code. The `bugSolution.pl` file provides the corrected code, illustrating the proper way to iterate through Perl arrays.
